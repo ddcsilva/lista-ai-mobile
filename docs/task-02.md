@@ -118,9 +118,11 @@ O console deve exibir `lista-ai-5d666`.
 
 ## ✅ Checklist de Conclusão
 
-- [ ] `firebase_options.dart` gerado pelo FlutterFire CLI
-- [ ] `google-services.json` presente em `android/app/`
-- [ ] Firebase inicializado no `main.dart`
-- [ ] `minSdkVersion` = 23 ou maior
-- [ ] App roda sem erros de Firebase
-- [ ] Project ID `lista-ai-5d666` confirmado no console
+> **Concluído em**: 29/03/2026
+
+- [x] `firebase_options.dart` gerado pelo FlutterFire CLI — **App ID: `1:594857065631:android:404a953db10b9743aa36aa`**
+- [x] `google-services.json` presente em `android/app/` — **Gerado automaticamente pelo FlutterFire CLI**
+- [x] Firebase inicializado no `main.dart` — **`WidgetsFlutterBinding.ensureInitialized()` + `Firebase.initializeApp()`**
+- [x] `minSdkVersion` = 23 ou maior — **Configurado `minSdk = 23` em `android/app/build.gradle.kts`**
+- [x] App roda sem erros de Firebase — **`flutter build apk --debug` + Gradle `BUILD SUCCESSFUL`**
+- [x] Project ID `lista-ai-5d666` confirmado — **Registrado via `flutterfire configure --project=lista-ai-5d666`**
