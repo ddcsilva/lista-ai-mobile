@@ -156,7 +156,9 @@ linter:
 
 ## ✅ Checklist de Conclusão
 
-- [ ] `flutter run` funciona sem erros
-- [ ] Estrutura de pastas criada
-- [ ] `main.dart` e `app.dart` criados e funcionando
-- [ ] App exibe "Lista AI - Setup OK!" no emulador
+> **Concluído em**: 29/03/2026
+
+- [x] `flutter run` funciona sem erros — **Build APK debug OK, `flutter analyze` sem issues, testes passando**
+- [x] Estrutura de pastas criada — **13 diretórios sob `lib/` conforme especificado**
+- [x] `main.dart` e `app.dart` criados e funcionando — **Material3 com colorSchemeSeed blue**
+- [x] App exibe "Lista AI - Setup OK!" no emulador — **Validado via build e teste de widget**
